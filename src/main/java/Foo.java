@@ -1,5 +1,5 @@
 public class Foo {
     public static int bar() {
-        return -1;
+        return -3;
     }
 }
